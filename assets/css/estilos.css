@@ -1,0 +1,63 @@
+
+
+body {
+    font-family: "Raleway", sans-serif;
+    background-color: black;
+}
+
+.nav {
+    background-color: transparent;
+    color: white;
+}
+
+
+#quienes-somos {
+    background: black;
+    text-align: center;
+    color: white;
+}
+
+.titulo {
+    background: turquoise;
+    width: 25rem;
+    font-size: x-large;
+}
+
+#destacados {
+    background: black;
+    text-align: center;
+    color: white;
+}
+
+.container {
+    width: 100%;
+    background: black;
+}
+.contacto {
+    width: 100%;
+    background: black;
+    color: white;
+    text-align: center;
+}
+.datos {
+    color: white;
+}
+
+.btn {
+    background-color: turquoise;
+}
+
+
+#footer {
+   background-color: turquoise;
+}
+
+#icons {
+    background-color: turquoise;
+    font-size: 120%;
+}
+
+#texto {
+    background-color: turquoise;
+    font-size: larger;
+}
