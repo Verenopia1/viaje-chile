@@ -7,9 +7,12 @@ body {
 
 .nav {
     background-color: transparent;
-    color: white;
+    
 }
 
+.tex-nav {
+    color: white;
+}
 
 #quienes-somos {
     background: black;
