@@ -32,6 +32,15 @@ body {
     color: white;
 }
 
+.title-card {
+    color: black;
+    font-weight: 700;
+}
+
+.card-contents {
+    color: black;
+    text-align: justify;
+}
 .container {
     width: 100%;
     background: black;
