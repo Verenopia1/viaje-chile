@@ -5,6 +5,9 @@ body {
     background-color: black;
 }
 
+html {
+    scroll-behavior: auto !important;
+}
 .nav {
     background-color: transparent;
     
